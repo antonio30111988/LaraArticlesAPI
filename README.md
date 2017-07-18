@@ -7,7 +7,7 @@ DB_DATABASE=db_name
 DB_USERNAME=db_user
 DB_PASSWORD=db_password
 
-On your command-linetype:
+On your command-line type:
 
 $composer install
 $ php artisan migrate
